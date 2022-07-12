@@ -1,0 +1,148 @@
+{
+    "Untitled": [
+        {
+            "always_on_top": false,
+            "cols": 4,
+            "geometry": {
+                "h": 1006,
+                "w": 1916,
+                "x": 1,
+                "y": 33
+            },
+            "hide_cursor": true,
+            "hide_from_display_capture": false,
+            "items": [
+                {
+                    "col": 2,
+                    "h": 2,
+                    "id": "PreviewProgramItem",
+                    "is_program": true,
+                    "row": 0,
+                    "show_label": true,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "durchblick_placeholder",
+                    "stretch": true,
+                    "w": 2
+                },
+                {
+                    "col": 0,
+                    "h": 2,
+                    "id": "PreviewProgramItem",
+                    "is_program": false,
+                    "row": 0,
+                    "show_label": true,
+                    "show_safe_borders": true,
+                    "show_volume": false,
+                    "source": "durchblick_placeholder",
+                    "stretch": false,
+                    "w": 2
+                },
+                {
+                    "border_for_indicator": 1,
+                    "col": 0,
+                    "h": 1,
+                    "id": "SceneItem",
+                    "row": 2,
+                    "show_label": true,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "CAM 1",
+                    "stretch": false,
+                    "w": 1
+                },
+                {
+                    "border_for_indicator": 1,
+                    "col": 1,
+                    "h": 1,
+                    "id": "SceneItem",
+                    "row": 2,
+                    "show_label": true,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "CAM 2",
+                    "stretch": true,
+                    "w": 1
+                },
+                {
+                    "border_for_indicator": 1,
+                    "col": 2,
+                    "h": 1,
+                    "id": "SceneItem",
+                    "row": 2,
+                    "show_label": true,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "CAM 3",
+                    "stretch": true,
+                    "w": 1
+                },
+                {
+                    "border_for_indicator": 1,
+                    "col": 3,
+                    "h": 1,
+                    "id": "SceneItem",
+                    "row": 2,
+                    "show_label": true,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "Pro7",
+                    "stretch": true,
+                    "w": 1
+                },
+                {
+                    "col": 0,
+                    "h": 1,
+                    "id": "SourceItem",
+                    "row": 3,
+                    "show_label": false,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "Testcard Util",
+                    "stretch": true,
+                    "w": 1
+                },
+                {
+                    "col": 3,
+                    "h": 1,
+                    "id": "SourceItem",
+                    "row": 3,
+                    "show_label": false,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "REC View Util",
+                    "stretch": true,
+                    "w": 1
+                },
+                {
+                    "col": 2,
+                    "h": 1,
+                    "id": "SourceItem",
+                    "row": 3,
+                    "show_label": false,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "Clock Util",
+                    "stretch": false,
+                    "w": 1
+                },
+                {
+                    "col": 1,
+                    "h": 1,
+                    "id": "SourceItem",
+                    "row": 3,
+                    "show_label": false,
+                    "show_safe_borders": false,
+                    "show_volume": false,
+                    "source": "LUFS Source Mirror",
+                    "stretch": false,
+                    "w": 1
+                }
+            ],
+            "monitor": -1,
+            "rows": 4,
+            "state": 0,
+            "visible": false
+        }
+    ]
+}
