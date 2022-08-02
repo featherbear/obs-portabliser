@@ -2,6 +2,23 @@
 
 Extract the OBS archive into the root of this repository.
 
+## Themes
+
+* Flat Dark
+* Just Edit
+
+## Plugins
+
+* Downstream Keyer
+* NDI
+* StreamFX
+* Durchblick
+
+## Resources
+
+* Recorder Stat
+  * Default password: `wscontrolwscontrol`
+
 ## Expected structure
 
 ```
